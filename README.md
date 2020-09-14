@@ -1,7 +1,7 @@
 # Exploratory Analysis
 Exploratory analysis of the PROJECT'S data sources.
 
-## Use Case and Basic Data Descriptions
+## Use Cases and Basic Data Descriptions
 * [UC1](docs/UC1.md) - [original data](https://legacy.link/here) - [our server](http://our.server.com/uc1.zip)
 * [UC1](docs/UC2.md) - [original data](https://legacy.link/here) - [our server](http://our.server.com/uc2.zip)
 * [UC1](docs/UC3.md) - [original data](https://legacy.link/here) - [our server](http://our.server.com/uc3.zip)
